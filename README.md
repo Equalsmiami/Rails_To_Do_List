@@ -1,24 +1,13 @@
-# README
+# To Do List
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a rails application, which is meant to display a simple to do list app.
 
-Things you may want to cover:
+Things it can do:
 
-* Ruby version
+* Display Current List
 
-* System dependencies
+* Edit Items
 
-* Configuration
+* Add Items
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Delete Items
